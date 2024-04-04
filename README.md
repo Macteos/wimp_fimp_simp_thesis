@@ -16,6 +16,6 @@ The main objectives are:
 
 - `thesis/`: Contains the original Spanish PDF document of the thesis, as well as an English translation.
   - `thesis_original.pdf`: The original Spanish version of the thesis.
-  - `Trabajo_de_Grado_(Original_spanish_version).pdf`: The English translation of the thesis.
+  - `thesis_english.pdf`: The English translation of the thesis.
 - `code/`: Contains the numerical code for solving the Boltzmann equations and implementing the analytical approximations.
-  - `WIMP_SIMP_FIMP_study.ipynb`: A Jupyter Notebook file with the code used for the analysis.
+  - `analysis.ipynb`: A Jupyter Notebook file with the code used for the analysis.
